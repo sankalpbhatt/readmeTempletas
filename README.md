@@ -15,7 +15,7 @@ GitHub provides a feature to showcase your activity and contributions through st
 
 To apply a theme to your GitHub stats, follow these simple steps:
 
-Choose a Theme: Browse through the themes available in the repository. Each theme has its own style, colors, and design elements.
+Choose a Theme: Browse through the themes available in the [repository](https://github.com/sankalpbhatt/readmeTempletas/tree/main/templates). Each theme has its own style, colors, and design elements.
 Copy Theme Code: Copy the code snippet provided for your chosen theme.
 Update GitHub Profile: Navigate to your GitHub profile's stats section. Click on the 'Customize your pins' button.
 Apply Theme Code: Paste the copied theme code into the 'Customization Options' section.
