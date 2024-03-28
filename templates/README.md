@@ -13,10 +13,10 @@ Utilize the `?theme=THEME_NAME` parameter below fashion:
 
 | | | |
 | :--: | :--: | :--: |
-| `default` ![default][default] | `transparent` ![transparent][transparent] | `shadow_red` ![shadow_red][shadow_red] |
+| `default` ![default][default] | `gruvbox_light` ![gruvbox_light][gruvbox_light] | `shadow_red` ![shadow_red][shadow_red] |
 | `shadow_green` ![shadow_green][shadow_green] | `shadow_blue` ![shadow_blue][shadow_blue] | `dark` ![dark][dark] |
 | `radical` ![radical][radical] | `merko` ![merko][merko] | `gruvbox` ![gruvbox][gruvbox] |
-| `gruvbox_light` ![gruvbox_light][gruvbox_light] | `tokyonight` ![tokyonight][tokyonight] | `onedark` ![onedark][onedark] |
+| `transparent` ![transparent][transparent]  | `tokyonight` ![tokyonight][tokyonight] | `onedark` ![onedark][onedark] |
 | `cobalt` ![cobalt][cobalt] | `synthwave` ![synthwave][synthwave] | `highcontrast` ![highcontrast][highcontrast] |
 | `dracula` ![dracula][dracula] | `prussian` ![prussian][prussian] | `monokai` ![monokai][monokai] |
 | `vue` ![vue][vue] | `vue-dark` ![vue-dark][vue-dark] | `shades-of-purple` ![shades-of-purple][shades-of-purple] |
@@ -40,8 +40,8 @@ Utilize the `?theme=THEME_NAME` parameter below fashion:
 | `calm_pink` ![calm_pink][calm_pink] | `ambient_gradient` ![ambient_gradient][ambient_gradient] | [Add your theme][add-theme] |
 
 [default]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
+[gruvbox_light]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light
 [default_repocard]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default_repocard
-[transparent]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent
 [shadow_red]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_red
 [shadow_green]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_green
 [shadow_blue]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_blue
@@ -49,7 +49,7 @@ Utilize the `?theme=THEME_NAME` parameter below fashion:
 [radical]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical
 [merko]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
 [gruvbox]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox
-[gruvbox_light]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light
+[transparent]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent
 [tokyonight]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
 [onedark]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=onedark
 [cobalt]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt
