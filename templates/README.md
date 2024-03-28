@@ -13,18 +13,18 @@ Utilize the `?theme=THEME_NAME` parameter below fashion:
 
 | | | |
 | :--: | :--: | :--: |
-| `default` ![default][default] | `gruvbox_light` ![gruvbox_light][gruvbox_light] | `shadow_red` ![shadow_red][shadow_red] |
-| `shadow_green` ![shadow_green][shadow_green] | `shadow_blue` ![shadow_blue][shadow_blue] | `dark` ![dark][dark] |
+| `default` ![default][default] | `gruvbox_light` ![gruvbox_light][gruvbox_light] | `vue` ![vue][vue] | `vue-dark` ![vue-dark][vue-dark] |
+| `buefy` ![buefy][buefy] | `graywhite` ![graywhite][graywhite] | `dark` ![dark][dark] |
 | `radical` ![radical][radical] | `merko` ![merko][merko] | `gruvbox` ![gruvbox][gruvbox] |
 | `transparent` ![transparent][transparent]  | `tokyonight` ![tokyonight][tokyonight] | `onedark` ![onedark][onedark] |
 | `cobalt` ![cobalt][cobalt] | `synthwave` ![synthwave][synthwave] | `highcontrast` ![highcontrast][highcontrast] |
 | `dracula` ![dracula][dracula] | `prussian` ![prussian][prussian] | `monokai` ![monokai][monokai] |
-| `vue` ![vue][vue] | `vue-dark` ![vue-dark][vue-dark] | `shades-of-purple` ![shades-of-purple][shades-of-purple] |
-| `nightowl` ![nightowl][nightowl] | `buefy` ![buefy][buefy] | `blue-green` ![blue-green][blue-green] |
+| `shadow_red` ![shadow_red][shadow_red] | `shades-of-purple` ![shades-of-purple][shades-of-purple] |
+| `nightowl` ![nightowl][nightowl] | `shadow_green` ![shadow_green][shadow_green] | `blue-green` ![blue-green][blue-green] |
 | `algolia` ![algolia][algolia] | `great-gatsby` ![great-gatsby][great-gatsby] | `darcula` ![darcula][darcula] |
 | `bear` ![bear][bear] | `solarized-dark` ![solarized-dark][solarized-dark] | `solarized-light` ![solarized-light][solarized-light] |
 | `chartreuse-dark` ![chartreuse-dark][chartreuse-dark] | `nord` ![nord][nord] | `gotham` ![gotham][gotham] |
-| `material-palenight` ![material-palenight][material-palenight] | `graywhite` ![graywhite][graywhite] | `vision-friendly-dark` ![vision-friendly-dark][vision-friendly-dark] |
+| `material-palenight` ![material-palenight][material-palenight] | `shadow_blue` ![shadow_blue][shadow_blue] | `vision-friendly-dark` ![vision-friendly-dark][vision-friendly-dark] |
 | `ayu-mirage` ![ayu-mirage][ayu-mirage] | `midnight-purple` ![midnight-purple][midnight-purple] | `calm` ![calm][calm] |
 | `flag-india` ![flag-india][flag-india] | `omni` ![omni][omni] | `react` ![react][react] |
 | `jolly` ![jolly][jolly] | `maroongold` ![maroongold][maroongold] | `yeblu` ![yeblu][yeblu] |
@@ -41,10 +41,10 @@ Utilize the `?theme=THEME_NAME` parameter below fashion:
 
 [default]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
 [gruvbox_light]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light
+[vue]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue
+[buefy]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy
+[graywhite]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite
 [default_repocard]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default_repocard
-[shadow_red]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_red
-[shadow_green]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_green
-[shadow_blue]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_blue
 [dark]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
 [radical]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical
 [merko]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
@@ -58,11 +58,11 @@ Utilize the `?theme=THEME_NAME` parameter below fashion:
 [dracula]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula
 [prussian]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=prussian
 [monokai]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=monokai
-[vue]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue
+[shadow_red]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_red
 [vue-dark]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark
 [shades-of-purple]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shades-of-purple
 [nightowl]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl
-[buefy]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy
+[shadow_green]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_green
 [blue-green]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green
 [algolia]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia
 [great-gatsby]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby
@@ -74,7 +74,7 @@ Utilize the `?theme=THEME_NAME` parameter below fashion:
 [nord]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord
 [gotham]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gotham
 [material-palenight]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight
-[graywhite]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite
+[shadow_blue]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_blue
 [vision-friendly-dark]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vision-friendly-dark
 [ayu-mirage]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ayu-mirage
 [midnight-purple]: https://github-readme-stats.vercel.app/api?username=sankalpbhatt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple
